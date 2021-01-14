@@ -79,6 +79,6 @@ Exemple dans le cas dans fichier *html*
 
 `grep samuel index.html` - Il ma m'indiquer tout les **Samuel** dans le fichier **index.html**.
 
-Si vous souhaitez ajouter les numéros de ligne il faut ajouter l'option **-n**.
+Si vous souhaitez ajouter le numéros des lignes il faut ajouter l'option **-n**.
 
 `grep -n samuel index.html` - Il ma m'indiquer tout les **Samuel** dans le fichier **index.html** avec le numéro de ligne.
