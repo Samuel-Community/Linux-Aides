@@ -36,7 +36,7 @@ Crée un nouveau fichier avec la commande suivante
 
     I. cat > votrefichier.txt
     II. Ajouter du contenue
-    III. Appuyer sur `ctrl +d`pour revenir sur la console
+    III. Appuyer sur `ctrl + c`pour sauvegarder puis revenir sur la console
 
 En plus simple
     `echo "Votre text" > ./votrefichier.txt`
